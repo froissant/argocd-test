@@ -5,3 +5,4 @@ namespace: guestbook-kustomize
 
 resources:
 - guestbook-ui/
+- deployment.yaml
